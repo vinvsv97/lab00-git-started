@@ -1,0 +1,4 @@
+# Mac Specific file
+.DS_Store
+# Jetbrains Configuration
+.idea/
