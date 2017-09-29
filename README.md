@@ -22,4 +22,6 @@ Thoughts from Evan:
 - [ ] After you've successfully pushed to your new branch, navigate to the forked repo on Github (eg `https://github.com/{YOUR USERNAME}/lab00-git-started`)
   - [ ] You should see a button like this (click it and make a new [Pull Request](https://help.github.com/articles/about-pull-requests/)!): ![PR img](./img/pr.png)
   - [ ] The PR should pop up with some pre-defined text (not super important, but you can find it in the `.github` dir in the repo). Fill out the PR and add the necessary screenshots: ![PR img 2](./img/pr2.png)
-  - [ ] Submit the PR link on Canvas (eg: `https://github.com/{YOUR USERNAME}/lab00-git-started/pull/1`)
+  - [ ] Pair up with another student, send eachother your PR links (eg: `https://github.com/{YOUR USERNAME}/lab00-git-started/pull/1`) and give eachother feedback!
+  > :bulb: Feedback can be finding bugs, having them fix code style, variable names to make more sense, or just questions on why they did stuff! Read more about that [here](https://www.visualstudio.com/learn/git-pull-requests/)! 
+  - [ ] ~Submit the PR link on Canvas (eg: `https://github.com/{YOUR USERNAME}/lab00-git-started/pull/1`)~ You don't need to submit anything today, showing up is your participation credit! _**However, do make sure that you know this PR process, it will be important for doing homework assignments!**_
